@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652204432 source:d:\mohamed\c++ projects\stack using array\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"arrayStack.h"
+
+1652204451 d:\mohamed\c++ projects\stack using array\arraystack.h
+	<iostream>
+	<bits/stdc++.h>
+

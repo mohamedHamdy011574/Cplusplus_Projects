@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654530637 source:d:\mohamed\c++ projects\queue using arry\main.cpp
+	<iostream>
+	"Queue using array.h"
+
+1654531005 d:\mohamed\c++ projects\queue using arry\queue using array.h
+	<iostream>
+

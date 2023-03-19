@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1650635910 source:d:\mohamed\c++ projects\a1_p3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+	"Menu.h"
+
+1650637145 d:\mohamed\c++ projects\a1_p3\matrix.h
+	<iostream>
+	<bits/stdc++.h>
+
+1650311581 source:d:\mohamed\c++ projects\a1_p3\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1650383525 d:\mohamed\c++ projects\a1_p3\menu.h
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+
+1650635910 source:d:\mohamed\c++ projects\a1_p3_20200442\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+	"Menu.h"
+
+1650928376 d:\mohamed\c++ projects\a1_p3_20200442\matrix.h
+	<iostream>
+	<bits/stdc++.h>
+
+1650383525 d:\mohamed\c++ projects\a1_p3_20200442\menu.h
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+
+1650635910 source:d:\mohamed\c++ projects\importants codes\matrix calculator\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+	"Menu.h"
+
+1650932391 d:\mohamed\c++ projects\importants codes\matrix calculator\matrix.h
+	<iostream>
+	<bits/stdc++.h>
+
+1650383525 d:\mohamed\c++ projects\importants codes\matrix calculator\menu.h
+	<iostream>
+	<bits/stdc++.h>
+	"Matrix.h"
+

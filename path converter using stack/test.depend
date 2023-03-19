@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652571934 source:d:\mohamed\c++ projects\test\main.cpp
+	<iostream>
+	<string>
+	"linkedlistStack.h"
+
+1652572481 d:\mohamed\c++ projects\test\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+

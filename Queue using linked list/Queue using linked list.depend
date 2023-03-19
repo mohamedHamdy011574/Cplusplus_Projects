@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654541793 source:d:\mohamed\c++ projects\queue using linked list\main.cpp
+	<iostream>
+	"Queue using linked list.h"
+	<exception>
+
+1654541710 d:\mohamed\c++ projects\queue using linked list\queue using linked list.h
+	<iostream>
+

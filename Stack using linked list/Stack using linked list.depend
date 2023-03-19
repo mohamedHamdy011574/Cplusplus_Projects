@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1652290703 source:d:\mohamed\c++ projects\stack using linked list\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"linkedlistStack.h"
+
+1652298395 d:\mohamed\c++ projects\stack using linked list\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+
+1652206910 d:\mohamed\c++ projects\stack using linked list\linkedlist.h
+	<iostream>
+	<bits/stdc++.h>
+
+1652290703 source:d:\mohamed\c++ projects\importants codes\stack using linked list\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"linkedlistStack.h"
+
+1652298395 d:\mohamed\c++ projects\importants codes\stack using linked list\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+

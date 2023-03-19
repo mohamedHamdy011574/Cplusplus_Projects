@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1650297997 source:d:\mohamed\c++ projects\a1_p1\main.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1650382388 source:d:\mohamed\c++ projects\a1_p1\bigint.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1650297997 d:\mohamed\c++ projects\a1_p1\bigint.h
+	<iostream>
+	<string>
+
+1650928059 source:d:\mohamed\c++ projects\a1_p1_20200442\main.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1650927894 d:\mohamed\c++ projects\a1_p1_20200442\bigint.h
+	<iostream>
+	<string>
+
+1650927894 source:d:\mohamed\c++ projects\a1_p1_20200442\bigint.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1650927894 source:d:\mohamed\c++ projects\importants codes\add two big integers\bigint.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1650927894 d:\mohamed\c++ projects\importants codes\add two big integers\bigint.h
+	<iostream>
+	<string>
+
+1650928059 source:d:\mohamed\c++ projects\importants codes\add two big integers\main.cpp
+	"BigInt.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+

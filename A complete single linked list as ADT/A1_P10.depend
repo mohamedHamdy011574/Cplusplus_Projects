@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1650754739 source:d:\mohamed\c++ projects\a1_p10\main.cpp
+	<iostream>
+	<iostream>
+	"list.h"
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+
+1650754231 d:\mohamed\c++ projects\a1_p10\list.h
+	<iostream>
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+
+1650999454 source:d:\mohamed\c++ projects\a1_p10_20200442\main.cpp
+	<iostream>
+	<iostream>
+	"list.h"
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+
+1650998288 d:\mohamed\c++ projects\a1_p10_20200442\list.h
+	<iostream>
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+
+1650999776 source:d:\mohamed\c++ projects\importants codes\a complete single linked list as adt\main.cpp
+	<iostream>
+	<iostream>
+	"list.h"
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+
+1652285186 d:\mohamed\c++ projects\importants codes\a complete single linked list as adt\list.h
+	<iostream>
+	<bits/stdc++.h>
+	<bits/stdtr1c++.h>
+

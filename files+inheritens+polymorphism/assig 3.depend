@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640524647 source:d:\mohamed\c++ projects\assig 3\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

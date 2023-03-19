@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652534138 source:d:\mohamed\c++ projects\a2_p11\main.cpp
+	<iostream>
+	"BST.h"
+
+1652648147 d:\mohamed\c++ projects\a2_p11\bst.h
+	<iostream>
+
